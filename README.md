@@ -1,4 +1,4 @@
-# qemu-rpi-kernel
+# qemu-rpi-kernell
 
 ## Emuation using Qemu's native raspi2/3 machine
 
